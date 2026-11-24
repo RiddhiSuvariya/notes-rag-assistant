@@ -1,0 +1,16 @@
+employee_id,name,role,department,band,manager_id,manager_name,joining_date,location,employment_type
+E101,Priya Sharma,Backend Engineer,Engineering,Band 3,E115,Pooja Agarwal,2021-06-14,Bangalore,Full-Time
+E102,Arjun Mehta,DevOps Lead,Engineering,Band 4,E108,Vikram Rao,2019-03-02,Pune,Full-Time
+E103,Sneha Patel,Fresher SDE,Engineering,Band 1,E101,Priya Sharma,2024-11-20,Bangalore,Full-Time
+E104,Rahul Verma,Security Engineer,Security,Band 3,E110,Aditya Kulkarni,2022-01-10,Hyderabad,Full-Time
+E105,Ananya Iyer,Frontend Engineer,Engineering,Band 2,E101,Priya Sharma,2023-08-01,Bangalore,Full-Time
+E106,Karan Singh,QA Engineer,Engineering,Band 4,E115,Pooja Agarwal,2020-05-19,Pune,Full-Time
+E107,Divya Nair,Data Engineer,Data,Band 2,E113,Kavya Menon,2023-12-04,Bangalore,Full-Time
+E108,Vikram Rao,Engineering Manager,Engineering,Band 5,,,2016-02-15,Bangalore,Full-Time
+E109,Meera Joshi,SDE-1,Engineering,Band 1,E105,Ananya Iyer,2024-10-01,Remote,Full-Time
+E110,Aditya Kulkarni,Cybersecurity Analyst,Security,Band 3,E108,Vikram Rao,2021-09-23,Hyderabad,Full-Time
+E111,Nisha Reddy,Product Designer,Design,Band 2,E108,Vikram Rao,2023-02-14,Bangalore,Full-Time
+E112,Rohan Desai,SDE-2,Engineering,Band 3,E101,Priya Sharma,2022-07-11,Pune,Full-Time
+E113,Kavya Menon,Staff Engineer,Data,Band 5,E108,Vikram Rao,2017-04-09,Bangalore,Full-Time
+E114,Siddharth Rao,SDE-1,Engineering,Band 2,E101,Priya Sharma,2024-08-19,Remote,Full-Time
+E115,Pooja Agarwal,Senior SDE,Engineering,Band 4,E108,Vikram Rao,2020-01-27,Bangalore,Full-Time

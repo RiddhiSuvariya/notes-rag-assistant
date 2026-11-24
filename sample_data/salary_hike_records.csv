@@ -1,0 +1,16 @@
+employee_id,name,role,years_at_company,band,rating,base_hike_pct,multiplier,achievement_bonus_pct,skill_bonus_pct,promotion_hike_pct,total_hike_pct,cycle,notes
+E101,Priya Sharma,Backend Engineer,4,Band 3,4,15,1.2,2,1,0,21.0,FY2025-26,Led microservices migration; completed cloud architect cert
+E102,Arjun Mehta,DevOps Lead,6,Band 4,5,18,1.4,2.5,0,0,27.7,FY2025-26,Resolved critical prod incident; mentored 3 juniors
+E103,Sneha Patel,Fresher SDE,0.8,Band 1,3,10,1.0,0,0,0,10.0,FY2025-26,No major achievements this cycle
+E104,Rahul Verma,Security Engineer,3.5,Band 3,4,13,1.2,3,0,12,30.6,FY2025-26,Filed internal patent; promoted to Senior SDE-2
+E105,Ananya Iyer,Frontend Engineer,2,Band 2,3,12,1.0,0,1.5,0,13.5,FY2025-26,Upskilled into AI/ML tooling for internal dashboards
+E106,Karan Singh,QA Engineer,5,Band 4,2,15,0.5,0,0,0,7.5,FY2025-26,Needs improvement rating; no bonuses applied
+E107,Divya Nair,Data Engineer,1.5,Band 2,4,11,1.2,1,1,0,15.2,FY2025-26,Earned AWS certification; open source contribution
+E108,Vikram Rao,Engineering Manager,9,Band 5,5,20,1.4,3,0,20,48.0,FY2025-26,Filed patent; promoted Lead to Manager
+E109,Meera Joshi,SDE-1,0.9,Band 1,4,11,1.2,1,1,10,23.2,FY2025-26,Completed Anthropic agent-building coursework; promoted SDE-1 to SDE-2
+E110,Aditya Kulkarni,Cybersecurity Analyst,4.2,Band 3,3,14,1.0,1,1.5,0,16.5,FY2025-26,Completed OSCP certification; cross-functional DevOps ownership
+E111,Nisha Reddy,Product Designer,2.5,Band 2,5,14,1.4,0.5,0,0,20.1,FY2025-26,Open source design system contribution recognized
+E112,Rohan Desai,SDE-2,3,Band 3,1,12,0.0,0,0,0,0.0,FY2025-26,Unsatisfactory rating; PIP triggered
+E113,Kavya Menon,Staff Engineer,8.5,Band 5,5,22,1.4,3,1.5,0,35.0,FY2025-26,Capped at policy max; patent + high-demand skill acquisition
+E114,Siddharth Rao,SDE-1,1,Band 2,3,10,1.0,0,0,0,10.0,FY2025-26,Standard cycle, no bonuses
+E115,Pooja Agarwal,Senior SDE,5.5,Band 4,4,16,1.2,2,1,0,22.2,FY2025-26,Shipped major feature independently; cloud cert
